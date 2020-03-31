@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example.maven-project</groupId>
-  <artifactId>project17</artifactId>
-  <packaging>war</packaging>
+  <artifactId>maven-project</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>project17</name>
+  <name>maven project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
